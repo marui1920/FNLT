@@ -55,7 +55,7 @@ class App {
                     "key": 4,
                     "value": {
                         stringValue: params[i].sales_volumes
-                    }, //订单数量   jjjj
+                    }, //订单数量  
                 };
                 data_arr[4] = {
                     "key": 5,
